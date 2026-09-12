@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on Roblox games<br>Currently learning machine learning from youtube and OOP through roblox development
+Exploring Computer Science<br>Currently learning computer science in University of Southampton Malaysia and youtube tutorials
 
 
 ## 🌐 Socials:
